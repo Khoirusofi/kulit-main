@@ -8,7 +8,7 @@ Clone repository ini ke komputer Anda:
 
 ```bash
 git clone https://github.com/Khoirusofi/kulit-main.git
-
+```
 2. Masuk ke Direktori Proyek dan Install Dependensi
 
 ```bash
